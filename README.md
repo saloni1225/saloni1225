@@ -8,9 +8,6 @@
 
 <br/>
 
-/*[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saloni01april@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saloni1225)?*/
-
 </div>
 
 ---

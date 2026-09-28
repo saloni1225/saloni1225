@@ -56,7 +56,7 @@ const saloni = {
   <tr>
     <td width="50%" valign="top">
       <h3>✈️ Lumina</h3>
-      <sub>Mock exam prep website with a full question bank.</sub><br/><br/>
+      <sub>AFCAT / CDS mock exam prep website with a full question bank.</sub><br/><br/>
       <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
       <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
     </td>

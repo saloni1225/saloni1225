@@ -1,21 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=200&section=header&text=Saloni%20Kumari&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20software%2C%20one%20commit%20at%20a%20time&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:7F00FF,50:B026FF,100:E100FF&height=230&section=header&text=Saloni%20Kumari&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Building%20software%2C%20one%20commit%20at%20a%20time&descAlignY=60&descSize=18" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;ML+%26+AI+Tinkerer;Cybersecurity+Enthusiast;Aerospace+Simulation+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=D58BFF&center=true&vCenter=true&width=620&lines=Full-Stack+Developer+%F0%9F%92%BB;ML+%26+AI+Tinkerer+%F0%9F%A4%96;Cybersecurity+Enthusiast+%F0%9F%9B%A1%EF%B8%8F;Aerospace+Simulation+Explorer+%F0%9F%9B%B0%EF%B8%8F" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saloni01april@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saloni1225)
+<img src="https://komarev.com/ghpvc/?username=saloni1225&label=Profile%20views&color=9d4edd&style=flat-square" alt="profile views" />
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,100:E100FF&height=3&section=header" width="100%" />
 
-## 👩‍💻 About Me
+<h2 align="center">✨ About Me ✨</h2>
+
+<div align="center">
 
 ```js
 const saloni = {
@@ -26,103 +27,86 @@ const saloni = {
 };
 ```
 
-- 🔭 Building projects across **web, ML, security and aerospace**
-- 🌱 Always learning something new, one commit at a time
-- 📫 Reach me at **saloni01april@gmail.com**
+🔭 Building across **web · ML · security · aerospace**  
+🌱 Always learning something new, one commit at a time  
+📫 saloni01april@gmail.com
 
----
+</div>
 
-## 🚀 Featured Projects
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,100:E100FF&height=3&section=header" width="100%" />
 
-<table>
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table align="center">
   <tr>
     <td width="50%" valign="top">
       <h3>🛰️ FDIR Engine</h3>
-      Aerospace-inspired fault detection system with in-browser ML inference.<br/><br/>
-      <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/ML-7F00FF?style=flat-square" />
+      <sub>Aerospace-inspired fault detection system with in-browser ML inference.</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/ML-7F00FF?style=for-the-badge" />
     </td>
     <td width="50%" valign="top">
       <h3>🛡️ RDSYS</h3>
-      Ransomware defense system frontend, built as a group project.<br/><br/>
-      <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Cybersecurity-D14836?style=flat-square" />
+      <sub>Ransomware defense system frontend, built as a group project.</sub><br/><br/>
+      <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Cybersecurity-B026FF?style=for-the-badge" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>✈️ Lumina</h3>
-      AFCAT / CDS mock exam prep website with a full question bank.<br/><br/>
-      <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js" />
-      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+      <sub>Mock exam prep website with a full question bank.</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
     </td>
     <td width="50%" valign="top">
       <h3>🎯 CSSS Preparation Portal</h3>
-      Simulates the computer-based SSB Stage-1 screening test.<br/><br/>
-      <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Exam%20Prep-E100FF?style=flat-square" />
+      <sub>Simulates the computer-based SSB Stage-1 screening test.</sub><br/><br/>
+      <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Exam%20Prep-E100FF?style=for-the-badge" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>💼 Job Portal</h3>
-      MERN-stack "career navigator" recruitment platform.<br/><br/>
-      <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white" />
-      <img src="https://img.shields.io/badge/Express-404d59?style=flat-square&logo=express&logoColor=white" />
-      <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" />
+      <sub>MERN-stack "career navigator" recruitment platform.</sub><br/><br/>
+      <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express-404d59?style=for-the-badge&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
     </td>
     <td width="50%" valign="top">
       <h3>🌆 Living World Engine</h3>
-      2D interactive multiplayer social simulation, a living city with NPCs and real-time chat.<br/><br/>
-      <img src="https://img.shields.io/badge/Canvas-E34F26?style=flat-square&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square" />
-      <img src="https://img.shields.io/badge/Postgres-316192?style=flat-square&logo=postgresql&logoColor=white" />
+      <sub>2D multiplayer social simulation, a living city with NPCs and real-time chat.</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Canvas-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
     </td>
   </tr>
 </table>
 
-> 🔗 Add repo links by making each project title a link, e.g. `### [🛰️ FDIR Engine](https://github.com/saloni1225/your-repo)`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,100:E100FF&height=3&section=header" width="100%" />
 
----
+<h2 align="center">🛠️ Tech Stack</h2>
 
-## 🛠️ Tech Stack
+<div align="center">
 
-**Languages**
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,js,ts,html,css&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=vercel,netlify,github&theme=dark" />
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<br/><br/>
 
-**Frontend**
+![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
-![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=flat-square&logo=react-query&logoColor=white)
+</div>
 
-**Backend & Databases**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,100:E100FF&height=3&section=header" width="100%" />
 
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-404d59?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/Postgres-316192?style=flat-square&logo=postgresql&logoColor=white)
-
-**Deploy & Tools**
-
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-
----
-
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
 
@@ -133,16 +117,18 @@ const saloni = {
 
 <img src="https://github-profile-trophy.vercel.app/?username=saloni1225&theme=radical&no-frame=true&row=1&column=6" />
 
-</div>
+<br/>
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saloni1225&theme=react-dark&hide_border=true&bg_color=0d1117&color=d58bff&line=b026ff&point=ffffff&area=true" width="95%" />
+
+</div>
 
 <div align="center">
 
-### 💬 Let's build something together
+<br/>
 
-[![Email](https://img.shields.io/badge/Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saloni01april@gmail.com)
+<i>"First, solve the problem. Then, write the code."</i>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E100FF,100:7F00FF&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E100FF,100:7F00FF&height=120&section=footer" width="100%" />
 
 </div>
